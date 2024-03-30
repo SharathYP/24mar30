@@ -1,2 +1,2 @@
-file 2 modified in master
+file 2 modified in second
 
